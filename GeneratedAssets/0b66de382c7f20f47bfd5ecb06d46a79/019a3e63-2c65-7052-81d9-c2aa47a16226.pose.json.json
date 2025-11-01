@@ -1,0 +1,11 @@
+{
+    "asset": "0b66de382c7f20f47bfd5ecb06d46a79",
+    "fileName": "019a3e63-2c65-7052-81d9-c2aa47a16226.pose.json",
+    "prompt": "Idle zombie, perfect looping cycle lasting 3 second at 30 fps. The zombie stands still with subtle idle breathing, slight swwayung, and minimal head and arm movement, locked feet, and natural wweight shifts.",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 1579484014,
+    "w3CTraceId": "dca4ca442e56c6b3c94d8b5e241ed5f9",
+    "isTrimmed": false
+}

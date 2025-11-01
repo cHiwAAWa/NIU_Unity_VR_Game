@@ -1,0 +1,20 @@
+{
+    "asset": "0fa6a3ff4136f1a47b08b34b2e3eb6d0",
+    "fileName": "019a3dff-69b3-76ff-afee-5f46074417df.png",
+    "prompt": "stainless steel floor tiles, seamless texture, metallic surface, brushed metal finish, reflective, realistic lighting, high detail, clean, uniform pattern, game-ready, tileable, PBR texture, no objects, top-down view, 4k",
+    "negativePrompt": "blurry, low resolution, distorted, bent, cracked, scratched, dirty, rusted, uneven, non-tileable, objects, characters, scenery, background, text, logos, noise, artifacts\n",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "786c43cecef559c2c0b852b5306c9029",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

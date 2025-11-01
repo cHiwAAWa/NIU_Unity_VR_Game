@@ -1,0 +1,20 @@
+{
+    "asset": "0fa6a3ff4136f1a47b08b34b2e3eb6d0",
+    "fileName": "019a3dfd-c7b5-78a5-a2c3-fa695f829ed2.png",
+    "prompt": "industrial stainless steel floor, brushed metal, cold lighting, realistic texture details, reflective surface, factory interior, high quality PBR material, physically accurate reflections, 4k",
+    "negativePrompt": "cartoon, flat color, low detail, plastic look, rough scratches, rusted metal, messy reflections, bad lighting, low poly",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "cf9acdd0eee22f2ce6c0212c49528e01",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
